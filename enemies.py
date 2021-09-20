@@ -4,7 +4,7 @@ import random
 # initialize the pygame
 pygame.init()
 # create screen
-screen = pygame.display.set_mode((800, 600))
+screen=pygame.display.set_mode((800, 600))
 
 # Title and icon
 pygame.display.set_caption("Car Race Arcade")
