@@ -24,9 +24,9 @@ This game is a ‘living in the present moment’ race game as mentioned in its 
 Building new social connections
 Players can make some new friends and interact through the help of this game. 
 
-> ***Group: The Grinders *** <br>
-Anul Shrestha - **210249** <br>
-Bipina Ghimire - **210214** <br>
-Aaryan Basnet - **210288** <br>
-Bibek Bista - **210281**
+> Group: The Grinders <br>
+Anul Shrestha - **Id no:210249** <br>
+Bipina Ghimire - **Id no:210214** <br>
+Aaryan Basnet - **Id no:210288** <br>
+Bibek Bista - **Id no:210281**
 
