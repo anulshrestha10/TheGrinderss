@@ -7,13 +7,14 @@ Car Race Arcade game is a single player arcade game in which a player controls a
 
 # Features & Functionalities 
 
-
-FEATURES:
-
-1.Will have 2D vehicles.
+# Features:
+1. Will have 2D vehicles.
 2. The car’s speed will increase as the level progresses.
 3. The road will have incoming obstacles and other obstacles, which would lose the player that game and will have to replay the game or else quit the game if the player hits one of them.
 4. Scores for the game will be set according to the car or obstacles passed in the race.
 5. The game will be over if the car touches the incoming cars.
 6. The level of the game increases after passing 30 cars without crashing.
 
+# Functionalties
+
+This game is a ‘living in the present moment’ race game as mentioned in its objectives which mean it gives some fun arcade feel to its players. It offers the player a challenging and enjoyable experience in a car race against a game-controlled car. The game is motived by the score and timing of the particular match. The game will have the options of sound enabling and disabling too.
