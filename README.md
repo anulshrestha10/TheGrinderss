@@ -18,3 +18,15 @@ Car Race Arcade game is a single player arcade game in which a player controls a
 # Functionalties
 
 This game is a ‘living in the present moment’ race game as mentioned in its objectives which mean it gives some fun arcade feel to its players. It offers the player a challenging and enjoyable experience in a car race against a game-controlled car. The game is motived by the score and timing of the particular match. The game will have the options of sound enabling and disabling too.
+
+# SCOPE
+
+Building new social connections
+Players can make some new friends and interact through the help of this game. 
+
+> ***Group: The Grinders *** <br>
+Anul Shrestha - **210249** <br>
+Bipina Ghimire - **210214** <br>
+Aaryan Basnet - **210288** <br>
+Bibek Bista - **210281**
+
