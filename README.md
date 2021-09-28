@@ -15,6 +15,8 @@ Car Race Arcade game is a single player arcade game in which a player controls a
 5. The game will be over if the car touches the incoming cars.
 6. The level of the game increases after passing 30 cars without crashing.
 
+![Screenshot 2021-09-24 160315](https://user-images.githubusercontent.com/84695167/135128273-638e5f38-b7fa-4f06-8077-9ae15fc4dd85.jpg)
+
 # Functionalties
 
 This game is a ‘living in the present moment’ race game as mentioned in its objectives which mean it gives some fun arcade feel to its players. It offers the player a challenging and enjoyable experience in a car race against a game-controlled car. The game is motived by the score and timing of the particular match. The game will have the options of sound enabling and disabling too.
